@@ -4,8 +4,13 @@
   "description": "Transfer slack emojis from one space to another",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "transfer": "node index.js"
+  },
   "dependencies": {
     "axios": "^0.19.2",
+    "form-data": "^3.0.0",
+    "fs": "^0.0.1-security",
     "prompt": "^1.0.0"
   }
 }
