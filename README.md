@@ -9,6 +9,7 @@ A node script that makes it ~easy~ easier to import all emojis from one Slack wo
 ### Prerequisities
 * Oauth token from the Slack you're transferring **from** (`xoxp-*`)
 * User token from the Slack you're transferring **to** (`xoxs-*`)
+
 *See below for how to grab tokens.*
 
 ### How to Use
