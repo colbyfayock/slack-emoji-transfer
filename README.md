@@ -3,13 +3,13 @@
 A node script that makes it ~easy~ easier to import all emojis from one Slack workspcae into another.
 
 ## Before You Use This
-*These actions are undoable* - once you successfully run this script, it will have added emoji to the Slack you're transferring to.
+**These actions are undoable** - once you successfully run this script, it will have added emoji to the Slack you're transferring to.
 
 ## Getting Started
 ### Prerequisities
-* Oauth token from the Slack you're transferring *from* (`xoxp-*`)
-* User token from the Slack you're transferring *to* (`xoxs-*`)
-**See below for how to grab tokens.**
+* Oauth token from the Slack you're transferring **from** (`xoxp-*`)
+* User token from the Slack you're transferring **to** (`xoxs-*`)
+*See below for how to grab tokens.*
 
 ### How to Use
 * Obtain tokens for the Slack you're transfering from and the Slack you're trasnfering to
@@ -53,7 +53,7 @@ Unfortunately as I'm writing this, there's not an easy way to obtain this token.
 * Run the following ocmmand `window.prompt('API Token', TS.boot_data.api_token)`
 * Copy the value for future use
 
-**Thanks @jackellenberger via https://github.com/jackellenberger/emojme#finding-a-slack-token**
+*Thanks @jackellenberger via https://github.com/jackellenberger/emojme#finding-a-slack-token*
 
 ## TODO
 Feel free to submit a PR if you're feeling ambitious :)
