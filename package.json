@@ -1,0 +1,11 @@
+{
+  "name": "slack-emoji-transfer",
+  "version": "1.0.0",
+  "description": "Transfer slack emojis from one space to another",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "prompt": "^1.0.0"
+  }
+}
