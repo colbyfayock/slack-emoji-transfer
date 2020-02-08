@@ -62,9 +62,6 @@ const SLACK_API_EMOJI_LIST = 'https://slack.com/api/emoji.list';
     }
   }
 
-  emojiKeys.for
-
-console.log('test')
 })();
 
 function promiseToGetPrompt(list) {
