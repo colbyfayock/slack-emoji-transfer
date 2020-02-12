@@ -4,6 +4,7 @@
   "description": "Transfer slack emojis from one space to another",
   "main": "index.js",
   "license": "MIT",
+  "author": "Colby Fayock <hello@colbyfayock.com>",
   "scripts": {
     "transfer": "node index.js"
   },
