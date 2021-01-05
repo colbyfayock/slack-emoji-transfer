@@ -9,7 +9,7 @@
     "transfer": "node index.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "form-data": "^3.0.0",
     "fs": "^0.0.1-security",
     "prompt": "^1.0.0"
